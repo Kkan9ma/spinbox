@@ -15,7 +15,7 @@
 # Demo
 
 - [vanilla JS](https://kkan9ma.github.io/spinbox/vanilla/dist)
-- [React](https://kkan9ma.github.io/spinbox/React/dist)
+- [React](https://kkan9ma.github.io/spinbox/react/dist)
 
 # 요구사항
 
